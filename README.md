@@ -1,3 +1,5 @@
+# Until [#42 in multicast-dns](https://github.com/mafintosh/multicast-dns/pull/42) is merged back to master and part of a release, I will have to maintain this fork.
+
 # multicast-dns
 
 Low level multicast-dns implementation in pure javascript
